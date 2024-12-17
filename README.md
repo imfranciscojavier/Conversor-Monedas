@@ -1,2 +1,2 @@
 # Conversor-Monedas
-2do Proyecta del Programa Oracle One Next Education 
+2do Proyecto del Programa Oracle One Next Education 
